@@ -2,6 +2,10 @@
 
 - **[LORA](https://github.com/IPHYS-Bioinformatics)** - LORA: Lipid Over-Representation Analysis.
 
+## Core Facilities
+- **[Metabolomics](https://metabolomics.fgu.cas.cz/index.html)** - Metabolomics at IPHYS.
+- **[Proteomics](https://proteomics.fgu.cas.cz/)** - Proteomics at IPHYS.
+
 <!--
 
 **Here are some ideas to get you started:**
