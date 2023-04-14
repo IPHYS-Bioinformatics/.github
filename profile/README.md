@@ -13,6 +13,8 @@
 - **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - a comprehensive atlas of the mouse metabolome and lipidome
 - **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer.
 - **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
+- **[ProteoViewer](https://proteomics.fgu.cas.cz/ProteoViewer/)**
+- **[ProteoAnalyser](https://proteomics.fgu.cas.cz/ProteoAnalyser/)**
 
 <!--
 
