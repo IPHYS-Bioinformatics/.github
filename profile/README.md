@@ -1,6 +1,6 @@
 ## Projects Overview
 
-- **[LORA](https://github.com/IPHYS-Bioinformatics)** - LORA: Lipid Over-Representation Analysis.
+- **[LORA](https://github.com/IPHYS-Bioinformatics/LORA)** - LORA: Lipid Over-Representation Analysis.
 - **[ProteoViewer](https://github.com/OmicsIPHYS/ProteoViewer)** - Web application for visualizing the protein topology, peptide intensity and coverage, and PTMs. 
 - **[MQmetrics](https://github.com/OmicsIPHYS/MQmetrics)** - R package for the LC-MS/MS Proteomics Quality Control.
 - **[MQanalyser](https://github.com/OmicsIPHYS/MQanalyser)** - R package for the quantitative analysis of Proteomics data.
