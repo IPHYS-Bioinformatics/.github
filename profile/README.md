@@ -16,7 +16,7 @@
 - **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
 - **[CRediT Generator](https://credit.metabolomics.fgu.cas.cz)** - CRediT Generator online app
 - **[ProteoViewer](https://proteomics.fgu.cas.cz/ProteoViewer/)**
-- **[ProteoAnalyser](https://proteomics.fgu.cas.cz/ProteoAnalyser/)**
+- **[ProteoAnalyser](https://proteomics.img.cas.cz/mqa/)**
 
 <!--
 
