@@ -13,6 +13,7 @@
 ## Core Facilities
 - **[Metabolomics](https://metabolomics.fgu.cas.cz/index.html)** - Metabolomics at IPHYS.
 - **[Proteomics](https://proteomics.fgu.cas.cz/)** - Proteomics at IPHYS, [GitHub](https://github.com/ProteoLabKRC).
+- **[Bioimaging](https://bioimaging.fgu.cas.cz/)** - Bioimaging at IPHYS, [GitHub](https://github.com/IPHYS-BIF)
 
 ## Online Web Resources
 - **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - a comprehensive atlas of the mouse metabolome and lipidome
