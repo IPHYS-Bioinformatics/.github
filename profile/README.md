@@ -12,7 +12,7 @@
 
 ## Core Facilities
 - **[Metabolomics](https://metabolomics.fgu.cas.cz/index.html)** - Metabolomics at IPHYS.
-- **[Proteomics](https://proteomics.fgu.cas.cz/)** - Proteomics at IPHYS, [GitHub](https://github.com/ProteoLabKRC).
+- **[Proteomics](https://fgu.cas.cz/en/research-and-laboratories/service-departments/proteomics-service-laboratory/)** - Proteomics at IPHYS, [GitHub](https://github.com/ProteoLabKRC).
 - **[Bioimaging](https://bioimaging.fgu.cas.cz/)** - Bioimaging at IPHYS, [GitHub](https://github.com/IPHYS-BIF)
 
 ## Online Web Resources
