@@ -20,6 +20,7 @@
 - **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer.
 - **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
 - **[CRediT Generator](https://credit.metabolomics.fgu.cas.cz)** - CRediT Generator online app
+- **[QR code Generator](https://qr.metabolomics.fgu.cas.cz)** - IPHYS QR code generator online app
 - **[ProteoViewer](https://proteomics.fgu.cas.cz/ProteoViewer/)**
 - **[ProteoAnalyser](https://proteomics.img.cas.cz/mqa/)**
 
