@@ -16,8 +16,9 @@
 - **[Bioimaging](https://bioimaging.fgu.cas.cz/)** - Bioimaging at IPHYS, [GitHub](https://github.com/IPHYS-BIF)
 
 ## Online Web Resources
-- **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - a comprehensive atlas of the mouse metabolome and lipidome
-- **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer.
+- **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - Comprehensive atlas of the mouse metabolome and lipidome accross 21 organs
+- **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - Metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer
+- **[COMA](https://coma.metabolomics.fgu.cas.cz)** - Circadian ontogenetic metabolomics atlas of rat plasma, tissues and feces
 - **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
 - **[CRediT Generator](https://credit.metabolomics.fgu.cas.cz)** - CRediT Generator online app
 - **[QR code Generator](https://qr.metabolomics.fgu.cas.cz)** - IPHYS QR code generator online app
