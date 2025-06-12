@@ -16,12 +16,12 @@
 - **[Bioimaging](https://bioimaging.fgu.cas.cz/)** - Bioimaging at IPHYS, [GitHub](https://github.com/IPHYS-BIF)
 
 ## Online Web Resources
-- **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - Comprehensive atlas of the mouse metabolome and lipidome accross 21 organs
-- **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - Metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer
-- **[COMA](https://coma.metabolomics.fgu.cas.cz)** - Circadian ontogenetic metabolomics atlas of rat plasma, tissues and feces
-- **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
-- **[CRediT Generator](https://credit.metabolomics.fgu.cas.cz)** - CRediT Generator online app
-- **[QR code Generator](https://qr.metabolomics.fgu.cas.cz)** - IPHYS QR code generator online app
+- <img src="./assets/atlas21red.svg" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[MetaboAtlas21](https://metaboatlas21.metabolomics.fgu.cas.cz)** - Comprehensive atlas of the mouse metabolome and lipidome accross 21 organs
+- <img src="./assets/metabologo.svg" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[GTTAtlas](https://gttatlas.metabolomics.fgu.cas.cz)** - Metabolomics atlas of mouse tissues during oral glucose tolerance test using [13C6]-glucose as a tracer
+- <img src="./assets/COMA_moon.svg" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[COMA](https://coma.metabolomics.fgu.cas.cz)** - Circadian ontogenetic metabolomics atlas of rat plasma, tissues and feces
+- <img src="./assets/LORA_parrot.svg" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[LORA](https://lora.metabolomics.fgu.cas.cz)** - LORA: Lipid Over-Representation Analysis
+- <img src="./assets/credit_icon.png" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[CRediT Generator](https://credit.metabolomics.fgu.cas.cz)** - CRediT Generator online app
+- <img src="./assets/QR_favicon.png" alt="icon" width="16" height="16" style="vertical-align: text-bottom;"/> **[QR code Generator](https://qr.metabolomics.fgu.cas.cz)** - IPHYS QR code generator online app
 - **[ProteoViewer](https://proteomics.fgu.cas.cz/ProteoViewer/)**
 - **[ProteoAnalyser](https://proteomics.img.cas.cz/mqa/)**
 
